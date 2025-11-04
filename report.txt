@@ -1,0 +1,16 @@
+Test Accuracy: 0.9136
+
+              precision    recall  f1-score   support
+
+        fire     0.9541    0.8595    0.9043       121
+      normal     0.9281    0.9726    0.9498       146
+       smoke     0.8671    0.8986    0.8826       138
+
+    accuracy                         0.9136       405
+   macro avg     0.9165    0.9102    0.9122       405
+weighted avg     0.9151    0.9136    0.9133       405
+
+Confusion Matrix:
+[[104   0  17]
+ [  2 142   2]
+ [  3  11 124]]
